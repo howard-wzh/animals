@@ -3,3 +3,5 @@ cats
 horses
 MOcha
 monkey
+Frog
+tiger
